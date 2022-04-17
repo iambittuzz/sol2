@@ -6,7 +6,7 @@ bot_token:'5148556903:AAHKNDWf_FS1-xAHvqDA6_3LCst0qC1zYbM',//bot token
 
 bot_name:'litcoinltcautopayvbot',//bot username without @
 
-bot_admin: 2087872161,// admin telegram id
+bot_admin: 1255683839,// admin telegram id
 
 channelsList : ['@hensdrop','@airdropserve','@PheonixDrops','@arenadrops','@AirdropMajesty','@doremonairdrops','@Boompayoutz'],// channels list
 
